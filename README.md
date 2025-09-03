@@ -25,6 +25,7 @@ This is a basic implementation of a blockchain written in Java for educational p
 
 ##  Project Structure
 Block_chain/
+
 ├── Block.java # Defines block structure and hashing
 
 ├── Main.java # CLI interface for adding data to the chain
